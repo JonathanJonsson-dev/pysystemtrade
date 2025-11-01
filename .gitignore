@@ -25,6 +25,10 @@ restats
 # venv
 env/
 venv/
+.venv/
 
 # libreoffice
 .~lock.*
+
+# Snyk Security Extension - AI Rules (auto-generated)
+.github\instructions\snyk_rules.instructions.md
